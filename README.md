@@ -1,7 +1,3 @@
-Aquí tienes la versión en inglés del README que has proporcionado:
-
----
-
 # Quiz App - Flutter
 
 This project is a quiz application developed with Flutter. It allows users to answer a series of questions and shows the number of correct answers at the end of the quiz. Additionally, after answering each question, the app displays the correct answer in English.
